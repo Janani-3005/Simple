@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        h1{
+            color:blue;
+        }
+        p{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Flowers</h1>
+    <p>Rose genus of some 100 species of perennial shrubs in the rose family. Roses are native primarily to the temperate regions of the Northern Hemisphere. </p>
+    
+</body>
+</html>
